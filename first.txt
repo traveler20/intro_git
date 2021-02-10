@@ -3,3 +3,5 @@ git first
 ・Gitの追加や変更の練習中。
 
 git tutorial 15
+
+git tutorial 16
